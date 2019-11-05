@@ -1,4 +1,5 @@
-#python program on factoria
+#python program on factorial
+#fact
 factorial = 1
 n=int(input("NUMBER:"))
 if n < 0:
